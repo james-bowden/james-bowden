@@ -1,7 +1,7 @@
 ## James Bowden
-### Caltech CS, Data Science '23
-#### jbowden@caltech.edu
-#### [Resume](https://github.com/james-bowden/resume/blob/master/BowdenJames_Resume_08.20.pdf)
+### Caltech '23. CS, Data Science, Biology.
+### Current: Machine Learning SURF Intern in [Yisong Yue's Group](http://www.yisongyue.com/group.php) at Caltech, Bioinformatics Researcher in [Kaihang Wang's Lab](https://kaihangwanglab.caltech.edu/research) at Caltech
+#### [[Website]](https://james-bowden.github.io/) [[Resume]](https://github.com/james-bowden/resume/blob/master/BowdenJames_Resume_08.20.pdf) [[LinkedIn]](https://www.linkedin.com/in/j-bowden/) [[Email me!]](jbowden@caltech.edu)
 
 Hi, I'm a rising sophomore at Caltech with machine learning and bioinformatics experience (and quite a bit of biomedical research background). I’m looking to develop impactful data processing/analysis techniques and related software.
 
