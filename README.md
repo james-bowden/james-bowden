@@ -1,6 +1,7 @@
 ## James Bowden
 ### Caltech CS, Data Science '23
 #### jbowden@caltech.edu
+#### [Resume](https://github.com/james-bowden/resume/blob/master/BowdenJames_Resume_08.20.pdf)
 
 Hi, I'm a rising sophomore at Caltech with machine learning and bioinformatics experience (and quite a bit of biomedical research background). I’m looking to develop impactful data processing/analysis techniques and related software.
 
